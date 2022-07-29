@@ -1,3 +1,5 @@
+/* Reference :- https://www.youtube.com/watch?v=oY-BlyCImSc */
+
 public static void commonElements(int Mat[][], int r, int c)
   {
     
