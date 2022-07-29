@@ -1,4 +1,4 @@
-/* Reference :- https://www.youtube.com/watch?v=oY-BlyCImSc */
+/* Reference :- https://www.youtube.com/watch?v=oY-BlyCImSc (Sashwat Tiwary)*/
 
 public static void commonElements(int Mat[][], int r, int c)
   {
